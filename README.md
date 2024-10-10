@@ -1,3 +1,3 @@
-# tinkery-docs
+# Tinkery Docs
 
-Tinkery Documentation
+Quickguide Setup
