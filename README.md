@@ -2,18 +2,15 @@
 
 ## Index
 
-*Quickguide Setup(#Quick Setup)
-*Quick Setup(#Quick Setup)
-*Glossary(#Glossary)
-*Your First Tinkery Project(#Your First Tinkery Project)
-*Uploading Files(#Uploading Files)
-*Connecting Data Sources(#Connecting Data Sources)
-*Tinkery AI(#Tinkery AI)
-*Prompting Guidelines(#Prompting Guidelines)
+* [Quick Setup](#QuickSetup)
+* [Glossary](#Glossary)
+* [Your First Tinkery Project](#Your First Tinkery Project)
+* [Uploading Files](#Uploading Files)
+* [Connecting Data Sources](#Connecting Data Sources)
+* [Tinkery AI](#Tinkery AI)
+* [Prompting Guidelines](#Prompting Guidelines)
 
-##Quickguide Setup
-
-##Quick Setup
+##QuickSetup
 
 ##Glossary
 
