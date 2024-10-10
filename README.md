@@ -1,2 +1,3 @@
-# tinkery-docs.github.io
+# tinkery-docs
+
 Tinkery Documentation
