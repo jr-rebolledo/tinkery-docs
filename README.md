@@ -2,7 +2,7 @@
 
 ## Index
 
-* [Quick Setup]((https://github.com/jr-rebolledo/tinkery-docs/blob/main/README.md))
+* [Quick Setup](https://github.com/jr-rebolledo/tinkery-docs/blob/main/README.md)
 * [Glossary](#Glossary)
 * [Your First Tinkery Project](#YourFirstTinkeryProject)
 * [Uploading Files](#UploadingFiles)
