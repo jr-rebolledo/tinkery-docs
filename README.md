@@ -2,7 +2,7 @@
 
 ## Index
 
-* [Quick Setup](#QuickSetup)
+* [Quick Setup](#quicksetup.md)
 * [Glossary](#Glossary)
 * [Your First Tinkery Project](#YourFirstTinkeryProject)
 * [Uploading Files](#UploadingFiles)
