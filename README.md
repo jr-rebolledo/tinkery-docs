@@ -142,6 +142,18 @@ Think of Recipes within Tinkery as you would any recipe in your kitchen. They co
 
 A Project within Tinkery involves a series of datasets that are connected by a common theme or domain. For instance, imagine you are working on a project that requires customer data from your organization's CRM, campaign data from your marketing tool, and conversion data from your organization's database. By creating a Project space in Tinkery, you indicate that the selected datasets are related and will be used to determine specific metrics needed for your project. Tinkery’s AI Engine will then handle the task of building these relationships, assisting you in defining metrics, and even creating visualizations to help you understand the insights you gain from exploring your data.
 
+### Ontology
+
+The term "ontology" in the context of a platform like Tinkery typically refers to a formal representation of knowledge as a set of concepts within a domain, and the relationships between those concepts. It's a way to structure and define the data so that it can be easily processed and understood by computer systems. Here’s a breakdown of how ontology might be used in Tinkery, assuming it's a technology-focused platform
+
+#### **Definition and Purpose**
+
+**Conceptual Framework**
+An ontology provides a structured framework for organizing information. It defines various categories and concepts within a domain, how these categories interact, and the rules that govern them.
+
+**Common Understanding**
+It helps to ensure that there is a common understanding of information that allows diverse systems to interact with each other effectively. This is crucial in environments where integration and interoperability are necessary.
+
 ## Your First Tinkery Project
 
 ## Uploading Files
