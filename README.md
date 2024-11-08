@@ -94,7 +94,7 @@ Performance: OLTP systems are optimized for a high volume of small, rapid transa
 Understanding these systems can help you better manage the tools and data at your disposal. For instance, knowing when to use OLAP tools can enhance your ability to provide strategic insights for forecasting, planning, and decision-making. Similarly, efficient use of OLTP systems can improve the accuracy and efficiency of day-to-day operations in your role.
 By differentiating between these systems, you can more effectively align your technology use with your business objectives, ensuring that both operational efficiency and analytical depth are achieved.
 
-### Data Source
+### -> Data Source
 From the point of view of a RevOps analyst, the definition of a Data Source in Tinkery, is described as a connection to a specific dataset in a spreadsheet or a group of tables within a database,this  provides an important foundation for both data management and analysis. Let's expand on this concept in terms of its application, management, and strategic significance:
 
 #### Application of Data Sources in RevOps
