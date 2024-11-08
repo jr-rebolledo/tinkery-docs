@@ -56,9 +56,9 @@ Export Results: Export your analysis and visualizations to share reports with st
 
 ## Glossary
 
-### Introduction to Tinkery
+### -> Introduction to Tinkery
 
-### OLTP vs OLAP
+### -> OLTP vs OLAP
 As a RevOps analyst, understanding the differences between OLTP (Online Transaction Processing) and OLAP (Online Analytical Processing) systems can greatly help you in streamlining various operational and analytical tasks. Here's a straightforward explanation aimed at a business user like yourself:
 
 #### OLTP Systems: The Workhorses of Daily Transactions
@@ -130,19 +130,19 @@ In today’s data-driven world, having direct access to well-organized and manag
 **Operational Efficiency**
 Well-defined data sources reduce redundancy, minimize manual data handling, and streamline workflows. This leads to more efficient operations across departments and better allocation of resources.
 
-### Data Set
+### -> Data Set
 
 A data set is essentially a collection of data organized in a spreadsheet or a database table. Think of it like a grid, where the vertical columns are known as fields, and the horizontal rows are called records. In Tinkery, both "fields" and "records" are commonly used terms. Sometimes, you might also hear records being called "registries." When you interact with Tinkery, you can use any of these terms. Tinkery's advanced language understanding capabilities ensure that it recognizes and responds correctly to different terminologies you use. This flexibility allows you to communicate naturally without worrying about specific jargon.
 
-### Recipes
+### -> Recipes
 
 Think of Recipes within Tinkery as you would any recipe in your kitchen. They consist of carefully crafted instructions designed to help you build projects tailored to your specific needs. Tinkery Recipes will guide you through the setup process, help you understand the type of data required, and even assist you in preparing for your first insights. This step-by-step approach ensures you can start your project confidently and efficiently.
 
-### Project
+### -> Project
 
 A Project within Tinkery involves a series of datasets that are connected by a common theme or domain. For instance, imagine you are working on a project that requires customer data from your organization's CRM, campaign data from your marketing tool, and conversion data from your organization's database. By creating a Project space in Tinkery, you indicate that the selected datasets are related and will be used to determine specific metrics needed for your project. Tinkery’s AI Engine will then handle the task of building these relationships, assisting you in defining metrics, and even creating visualizations to help you understand the insights you gain from exploring your data.
 
-### Ontology
+### -> Ontology
 
 The term "ontology" in the context of a platform like Tinkery typically refers to a formal representation of knowledge as a set of concepts within a domain, and the relationships between those concepts. It's a way to structure and define the data so that it can be easily processed and understood by computer systems. Here’s a breakdown of how ontology might be used in Tinkery, assuming it's a technology-focused platform
 
