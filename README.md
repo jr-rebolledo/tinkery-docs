@@ -86,10 +86,22 @@ By differentiating between these systems, you can more effectively align your te
 
 ### Data Source
 From the point of view of a RevOps analyst, the definition of a Data Source in Tinkery, is described as a connection to a specific dataset in a spreadsheet or a group of tables within a database,this  provides an important foundation for both data management and analysis. Let's expand on this concept in terms of its application, management, and strategic significance:
-Application of Data Sources in RevOps
-Central Access Point: As a RevOps analyst, you often need a reliable and consistent source of data for operational and analytical purposes. A data source in Tinkery serves as this central access point, where you connect directly to the raw data stored in its original infrastructure (like a cloud database or local server). This means you're working with the most current and comprehensive data available, which is crucial for both accuracy and timeliness in decision-making.
-Integration of Various Data Streams: In RevOps, you deal with data from multiple aspects of the business, including sales, marketing, customer support, and product usage. Each of these may reside in different spreadsheets or databases. By defining each as a separate data source in Tinkery, you can streamline the process of integrating these varied data streams into a cohesive analysis model. This is essential for providing a 360-degree view of the customer journey and operational efficiency.
-Automation and Reporting: With direct connections to data sources, you can automate the extraction, transformation, and loading (ETL) processes, thereby saving time and reducing errors. Automated reports can be generated using real-time data, providing ongoing insights into business operations and market conditions.
+
+#### Application of Data Sources in RevOps
+
+**Central Access Point** As a RevOps analyst, you often need a reliable and consistent source of data for operational and analytical purposes. A data source in Tinkery serves as this central access point, where you connect directly to the raw data stored in its original infrastructure (like a cloud database or local server). This means you're working with the most current and comprehensive data available, which is crucial for both accuracy and timeliness in decision-making.
+
+**Integration of Various Data Streams** In RevOps, you deal with data from multiple aspects of the business, including sales, marketing, customer support, and product usage. Each of these may reside in different spreadsheets or databases. By defining each as a separate data source in Tinkery, you can streamline the process of integrating these varied data streams into a cohesive analysis model. This is essential for providing a 360-degree view of the customer journey and operational efficiency.
+
+**Automation and Reporting** With direct connections to data sources, you can automate the extraction, transformation, and loading (ETL) processes, thereby saving time and reducing errors. Automated reports can be generated using real-time data, providing ongoing insights into business operations and market conditions.
+
+#### Management of Data Sources
+
+**Data Governance** Managing data sources effectively involves setting up clear governance around who can access and manipulate the data. This includes defining roles and responsibilities to ensure data integrity and security.
+
+**Data Quality Assurance** Regular audits and checks are crucial to ensure that the data remains accurate and reliable. As data flows from its source through different analysis tools, maintaining its quality is imperative for making sound business decisions.
+
+**Scalability and Maintenance** As the business grows, so too will its data needs. Data sources must be scalable and easy to maintain. This might involve upgrading database solutions or migrating data to more robust systems that can handle increased loads and complex queries more efficiently.
 
 ## Your First Tinkery Project
 
