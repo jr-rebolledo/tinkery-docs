@@ -56,6 +56,41 @@ Export Results: Export your analysis and visualizations to share reports with st
 
 ## Glossary
 
+###Introduction to Tinkery
+
+###OLTP vs OLAP
+As a RevOps analyst, understanding the differences between OLTP (Online Transaction Processing) and OLAP (Online Analytical Processing) systems can greatly help you in streamlining various operational and analytical tasks. Here's a straightforward explanation aimed at a business user like yourself:
+
+####OLTP Systems: The Workhorses of Daily Transactions
+What They Do: OLTP systems are designed to manage and handle everyday business transactions efficiently. These systems are what you interact with when you're doing routine tasks such as entering data, updating records, or processing sales. They are built to be fast and reliable at these types of tasks.
+Characteristics:
+Speed and Efficiency: OLTP systems are optimized for speed and can handle a large number of transactions by multiple users simultaneously.
+Detailed and Current: The data in OLTP systems is very detailed, up-to-date, and typically organized at a transactional level (like individual sales or customer interactions).
+Business Use Example: If you're entering a new customer into a CRM system or processing a sales order, you're likely using an OLTP system. These systems ensure that such operations are performed quickly and accurately.
+
+####OLAP Systems: The Analysts of Historical Data
+What They Do: OLAP systems are designed for querying and analyzing historical data. These systems allow you to look at big volumes of data from different angles to understand trends, patterns, and insights. They are not focused on recording transactions but on helping you make sense of what those transactions mean over time.
+Characteristics:
+Complex Queries: OLAP systems are optimized for complex queries that involve aggregating large amounts of data (like total sales over the last year or comparison of quarterly revenues).
+Data Organization: The data in OLAP systems is typically summarized and organized differently from OLTP systems, often in multidimensional structures that make complex queries and report generation easier.
+Business Use Example: If you're trying to analyze sales trends over the past five years to predict future demands or to assess the performance of different regions or products, you'd turn to an OLAP system. These systems help you delve into the data to extract strategic insights.
+
+####Key Differences in Basic Terms
+Purpose: OLTP systems are about capturing and storing individual transaction data in real-time. OLAP systems, on the other hand, are about analyzing that data to extract insights and inform decisions.
+Data Handling: OLTP systems deal with data at a very granular level, focusing on the accuracy and speed of each transaction. OLAP systems work with aggregated and historical data to help understand broader trends.
+Performance: OLTP systems are optimized for a high volume of small, rapid transactions. OLAP systems are optimized for fewer, more complex queries that scan and analyze large datasets.
+
+####Why This Matters to You as a RevOps Analyst
+Understanding these systems can help you better manage the tools and data at your disposal. For instance, knowing when to use OLAP tools can enhance your ability to provide strategic insights for forecasting, planning, and decision-making. Similarly, efficient use of OLTP systems can improve the accuracy and efficiency of day-to-day operations in your role.
+By differentiating between these systems, you can more effectively align your technology use with your business objectives, ensuring that both operational efficiency and analytical depth are achieved.
+
+###Data Source
+From the point of view of a RevOps analyst, the definition of a Data Source in Tinkery, is described as a connection to a specific dataset in a spreadsheet or a group of tables within a database,this  provides an important foundation for both data management and analysis. Let's expand on this concept in terms of its application, management, and strategic significance:
+Application of Data Sources in RevOps
+Central Access Point: As a RevOps analyst, you often need a reliable and consistent source of data for operational and analytical purposes. A data source in Tinkery serves as this central access point, where you connect directly to the raw data stored in its original infrastructure (like a cloud database or local server). This means you're working with the most current and comprehensive data available, which is crucial for both accuracy and timeliness in decision-making.
+Integration of Various Data Streams: In RevOps, you deal with data from multiple aspects of the business, including sales, marketing, customer support, and product usage. Each of these may reside in different spreadsheets or databases. By defining each as a separate data source in Tinkery, you can streamline the process of integrating these varied data streams into a cohesive analysis model. This is essential for providing a 360-degree view of the customer journey and operational efficiency.
+Automation and Reporting: With direct connections to data sources, you can automate the extraction, transformation, and loading (ETL) processes, thereby saving time and reducing errors. Automated reports can be generated using real-time data, providing ongoing insights into business operations and market conditions.
+
 ## Your First Tinkery Project
 
 ## Uploading Files
